@@ -9,6 +9,6 @@ entries:
     name: test-helm
     type: application
     urls:
-    - https://github.com/Avishek-spec/helmchartrepoavi/test-helm-0.1.1.tgz
+    - https://avishek-spec.github.io/helmchartrepoavi/test-helm-0.1.1.tgz
     version: 0.1.1
 generated: "2024-07-23T04:26:36.707604989Z"
